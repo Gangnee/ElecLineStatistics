@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElecLineStatistics", "ElecLineStatistics\ElecLineStatistics.csproj", "{0792C7E6-7FF2-4886-B080-5F30CDF74D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMateAppLib", "..\TestMateAppLib\TestMateAppLib\TestMateAppLib.csproj", "{6C2FD1AD-D647-48B6-9660-5C1324F80292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0792C7E6-7FF2-4886-B080-5F30CDF74D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0792C7E6-7FF2-4886-B080-5F30CDF74D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0792C7E6-7FF2-4886-B080-5F30CDF74D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0792C7E6-7FF2-4886-B080-5F30CDF74D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2FD1AD-D647-48B6-9660-5C1324F80292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2FD1AD-D647-48B6-9660-5C1324F80292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2FD1AD-D647-48B6-9660-5C1324F80292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2FD1AD-D647-48B6-9660-5C1324F80292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80136774-8AD4-4A3F-9873-AEB4877DD125}
+	EndGlobalSection
+EndGlobal
